@@ -1,0 +1,10 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Dissotti <gabrieldnrodrigues@gmail.com> (https://gabriel.dissotti.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "prisma-client-lib": "^1.34.10"
+  }
+}
